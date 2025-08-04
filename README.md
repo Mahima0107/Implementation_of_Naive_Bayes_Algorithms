@@ -3,7 +3,7 @@
 Naive Bayes is simple, fast, and surprisingly effective, especially for text-heavy or high-dimensional applications. It makes a strong baseline model—easy to train and interpret—even if its independence assumption is a simplification. Gaussian Naive Bayes is commonly used because the features are continuous and normally distributed within species.
 
 * In this dataset There are 6 columns and 150 rows.
-* Algorithm Used: Linear Regression
+* Algorithm Used: Naive Bayes
 * Libraries: scikit-learn, pandas, matplotlib, seaborn
 
 🌸 Key Features & Insights
